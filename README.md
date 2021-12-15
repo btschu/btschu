@@ -10,11 +10,11 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3 align="center">Full Stack Developer in training</h3>
+<!-- <h3 align="center">Full Stack Developer in training</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=btschu&label=Profile%20views&color=0e75b6&style=flat" alt="btschu" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=btschu&label=Profile%20views&color=0e75b6&style=flat" alt="btschu" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btschu" alt="btschu" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btschu" alt="btschu" /></a> </p> -->
 
 - 🖥 I’m currently attending [Coding Dojo's Full Stack Bootcamp](https://www.codingdojo.com)
 
