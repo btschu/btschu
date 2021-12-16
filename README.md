@@ -1,4 +1,4 @@
-![alt text](https://github.com/btschu/btschu/blob/main/1.png)
+![alt text](Blue and White Architect LinkedIn Banner.png)
 <!-- ### Hi there 👋 -->
 
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
