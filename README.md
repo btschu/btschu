@@ -1,4 +1,5 @@
 ![alt text](https://github.com/btschu/btschu/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png)
+
 <!-- ### Hi there 👋 -->
 
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
