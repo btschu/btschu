@@ -1,4 +1,4 @@
-![ScreenShot](https://github.com/btschu/btschu/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png)
+![ScreenShot](/Blue and White Architect LinkedIn Banner.png)
 
 <!-- ### Hi there 👋 -->
 
