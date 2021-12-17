@@ -1,4 +1,4 @@
-![image](https://github.com/btschu/btschu/blob/b866e79aff5a419c2de54d01b712b9b2f938801f/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png)
+![image](https://github.com/btschu/btschu/blob/main/1.png)
 
 <!-- ### Hi there 👋 -->
 
