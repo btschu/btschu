@@ -28,9 +28,9 @@
 </p> -->
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/btschu/btschu">
+<!-- <a href="https://github.com/btschu/btschu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btschu&theme=vue-dark&langs_count=3" />
-</a>
+</a> -->
 <a href="https://github.com/btschu/btschu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=btschu&show_icons=true&line_height=27&count_private=true&theme=vue-dark" />
 </a>
