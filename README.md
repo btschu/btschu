@@ -1,6 +1,6 @@
 ![image](https://github.com/btschu/btschu/blob/main/1.png)
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 - 🖥 I’m currently attending [Coding Dojo's Full Stack Bootcamp](https://www.codingdojo.com)
 
