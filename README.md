@@ -2,7 +2,7 @@
 
 # Hello!
 
-- 🖥 I’m currently attending [Coding Dojo's Full Stack Bootcamp](https://www.codingdojo.com)
+- 🖥 Graduate of [Coding Dojo's Full Stack Bootcamp](https://www.codingdojo.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/btschu](https://github.com/btschu)
 
