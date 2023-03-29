@@ -1,44 +1,25 @@
 <!-- ![image](https://github.com/btschu/btschu/blob/main/1.png) -->
 ![E70DCEF5-E7DB-42BE-8394-ACAEC932936E](https://user-images.githubusercontent.com/92617960/213037193-696f26e9-bdb5-435d-8d79-0184c9519c01.PNG)
 
+# Brandon Schumacher
 
-# Hello!
+## Full Stack Developer
 
-- 🖥 Graduate of [Coding Dojo's Full Stack Bootcamp](https://www.codingdojo.com)
+#### As a full-stack developer, I create solutions that seamlessly integrate various layers of technology and functionality
 
-- 👨‍💻 All of my projects are available at [https://github.com/btschu](https://github.com/btschu)
+* 🌍  I'm based in Wyoming 
+* 🖥️  See my portfolio at [My Portfolio](http://btschu.com) 
+* ✉️  You can contact me at [btschu@icloud.com](mailto:btschu@icloud.com)
 
-- 📫 How to reach me **schumacherb09@gmail.com**
+### Skills  
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-<!-- ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a) -->
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a> </p> 
 
-<!-- ## Languages and Tools:
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge&style=PlasticStyle" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge&style=PlasticStyle" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge&style=PlasticStyle" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&style=PlasticStyle" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&style=PlasticStyle" />
-</p> -->
+### Socials  
+<p align="left"> <a href="https://www.github.com/btschu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brandon-schumacher" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-## &#x1f4c8; GitHub Stats
-<!-- <a href="https://github.com/btschu/btschu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btschu&theme=vue-dark&langs_count=3" />
-</a> -->
-<a href="https://github.com/btschu/btschu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=btschu&show_icons=true&line_height=27&count_private=true&theme=vue-dark" />
-</a>
+### Badges
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=btschu&show_icons=true&locale=en&layout=compact" alt="btschu" /></p>
+<b>My GitHub Stats</b>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btschu&show_icons=true&locale=en" alt="btschu" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btschu&" alt="btschu" /></p> -->
+<a href="http://www.github.com/btschu"><img src="https://github-readme-stats.vercel.app/api?username=btschu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="btschu's GitHub stats" /></a>
